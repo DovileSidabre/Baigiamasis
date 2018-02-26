@@ -1,0 +1,58 @@
+.carousel-inner .carousel-item img {
+    width: 100%;
+    height: 550px;;
+    margin: 0 auto;
+    margin-top: 0; 
+}
+
+.cont-navbar{
+    background-color: rgb(26, 24, 24);
+    padding: 10px;
+    color: rgb(228, 220, 220);
+}
+
+.d-flex{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.cont-header-1{
+    background-color: transparent;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.692);
+    color: rgb(51, 47, 47);
+}
+
+.cont-features{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.692);
+    margin-bottom: 10px;    
+}
+
+h5{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.692);
+    margin-top: 50px;
+    color: rgb(51, 47, 47);    
+}
+
+.cont-header-2{
+    background-color: transparent;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.692);
+    color: rgb(51, 47, 47);
+}
+
+.cont-call-to-action{
+    margin-top: 20px;
+    background-color: rgba(196, 192, 192, 0.322);
+    text-align: left;
+    border-radius: 10px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+

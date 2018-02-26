@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="44px" viewBox="0 0 50 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>repeat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="repeat" fill="#00D6FF">
+            <g id="Group">
+                <path d="M1,21.5 C0.447,21.5 0,21.053 0,20.5 C0,13.332 5.832,7.5 13,7.5 L38,7.5 C38.553,7.5 39,7.947 39,8.5 C39,9.053 38.553,9.5 38,9.5 L13,9.5 C6.935,9.5 2,14.435 2,20.5 C2,21.053 1.553,21.5 1,21.5 L1,21.5 Z" id="Shape"></path>
+                <polygon id="Shape" points="38 16.5 49 8.5 38 0.5"></polygon>
+                <path d="M37,36.5 L12,36.5 C11.447,36.5 11,36.053 11,35.5 C11,34.947 11.447,34.5 12,34.5 L37,34.5 C43.065,34.5 48,29.565 48,23.5 C48,22.947 48.447,22.5 49,22.5 C49.553,22.5 50,22.947 50,23.5 C50,30.668 44.168,36.5 37,36.5 L37,36.5 Z" id="Shape"></path>
+                <polygon id="Shape" points="12 27.5 1 35.5 12 43.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
